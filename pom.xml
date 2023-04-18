@@ -14,7 +14,7 @@
     <name>drone-fleet-management-service</name>
     <description>drone-fleet-management-service</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -85,7 +85,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <release>11</release>
+                    <source>1.8</source>
+                    <target>1.8</target>
                     <!--                    <annotationProcessorPaths>-->
                     <!--                        <path>-->
                     <!--                            <groupId>org.mapstruct</groupId>-->
