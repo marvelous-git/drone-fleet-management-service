@@ -2,7 +2,7 @@
 To build the application, run the following command: `mvn clean install`
 
 ## Instructions for Running
-To run the Drone Fleet Management Service application, open it in your IDE and execute it from there.
+Open terminal and run command `mvn spring-boot:run` or open the Drone Fleet Management Service application, in your IDE and execute it from there.
 
 ## How to Access Swagger
 To access Swagger, navigate to: `http://localhost:8080/swagger-ui/index.html`
