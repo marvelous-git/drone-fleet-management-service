@@ -16,6 +16,7 @@ log/
 mvnw
 mvnw.cmd
 mvn/
+.mvn/
 *.jar
 
 # Application properties
