@@ -1,0 +1,31 @@
+# Java Build
+target/
+build/
+
+# IDE files
+.gradle/
+.settings/
+.project
+.classpath
+
+# Logs
+log/
+*.log
+
+# Maven
+mvnw
+mvnw.cmd
+mvn/
+*.jar
+
+# Application properties
+application.yml
+application.properties
+
+# Test reports
+test-output/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
